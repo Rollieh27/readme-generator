@@ -1,3 +1,4 @@
+  [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Readme Generator 3000
   
   ## Table of Contents
@@ -7,7 +8,6 @@
   * [Contribution](#contribution)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Github](#github)
   ## DESCRIPTION 
   Write a readme file using this CLI application
   ## INSTALLATION 
