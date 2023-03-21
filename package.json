@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator-3000",
+  "version": "1.0.0",
+  "description": "Write a readme file using this CLI application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rollie",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
